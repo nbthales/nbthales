@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align="left"><img src="https://komarev.com/ghpvc/?username=nbthales" alt="nbthales" /></p>
 
-<!--
-**nbthales/nbthales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align = "justify">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Thales</h1>
+Pós graduando em Arquitetura de Soluções e formado em Ciência da Computação.</br>
+Experiência em desenvolvimento Cloud AWS CDK (TypeScript): Lambda; RDS; DynamoDB; Cognito; API Gateway, etc.</br>
+Experiência em desenvolvimento PL/SQL: Oracle Forms; Packages; Procedures; Views; Queries, BI Publisher etc.</br>
+Experiência em desenvolvimento Mobile: Flutter e publicação nas lojas Play Store e App Store.</br></br>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-nbthales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalesterra/)](https://www.linkedin.com/in/thalesterra/)
+[![Gmail Badge](https://img.shields.io/badge/-nbthales@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nbthales@gmail.com)](mailto:nbthales@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter)
+
+## Estatísticas do GitHub
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nbthales&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
