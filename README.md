@@ -5,9 +5,7 @@ Experiência em desenvolvimento <b>Cloud</b> AWS CDK (TypeScript): Lambda; RDS; 
 Experiência em desenvolvimento <b>PL/SQL</b>: Oracle Forms; Packages; Procedures; Views; Queries, BI Publisher etc.</br>
 Experiência em desenvolvimento <b>Mobile</b>: Flutter e publicação nas lojas Play Store e App Store.</br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nbthales&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbthales&layout=compact)](https://github.com/nbthales/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nbthales&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true) &ensp; &ensp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbthales&layout=compact)](https://github.com/nbthales/github-readme-stats)
 
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-nbthales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalesterra/)](https://www.linkedin.com/in/thalesterra/)-->
