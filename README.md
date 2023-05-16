@@ -1,12 +1,9 @@
-<h1 align = "justify">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Thales</h1>
-Pós graduando em Arquitetura de Soluções e formado em Ciência da Computação.</br>
-
-Experiência em desenvolvimento <b>Cloud</b> AWS CDK (TypeScript): Lambda; RDS; DynamoDB; Cognito; API Gateway, etc.</br> 
-Experiência em desenvolvimento <b>PL/SQL</b>: Oracle Forms; Packages; Procedures; Views; Queries, BI Publisher etc.</br>
-Experiência em desenvolvimento <b>Mobile</b>: Flutter e publicação nas lojas Play Store e App Store.</br>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nbthales&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true) &ensp; &ensp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbthales&layout=compact)](https://github.com/nbthales/github-readme-stats)
-
-
-<!--[![Linkedin Badge](https://img.shields.io/badge/-nbthales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalesterra/)](https://www.linkedin.com/in/thalesterra/)-->
-<!--[![Gmail Badge](https://img.shields.io/badge/-nbthales@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nbthales@gmail.com)](mailto:nbthales@gmail.com)-->
+<div align="center">
+  <p>
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&style=flat" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&logoColor=white&style=flat" />
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat" />
+  </p>
+  
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=nbthales&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true)
+</div>
