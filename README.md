@@ -5,5 +5,5 @@
     <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat" />
   </p>
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=nbthales&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=nbthales&theme=dracula&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true)
 </div>
